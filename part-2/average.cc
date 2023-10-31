@@ -1,7 +1,7 @@
 // Ruben Flores
 // rubenf64@csu.fullerton.edu
 // @Ruppert23
-// Partners: @Pachmi, @SirBagelton
+// Partners: @pachmi, @SirBagelton
 
 #include <iostream>
 #include <string>
